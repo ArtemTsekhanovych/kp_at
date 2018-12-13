@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{9D4F43D1-FDB7-4709-A426-4A4228356A31}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Example_of_c.w/PL(interface).cs">
+    <Files>
+      <File FileName="Example_of_c.w/PL(interface).cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
